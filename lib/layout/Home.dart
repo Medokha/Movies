@@ -28,7 +28,6 @@ class _HomelayoutState extends State<Homelayout> {
         onTap: (index){
           currentindex = index;
           setState(() {
-
           });
         },
         items: [
